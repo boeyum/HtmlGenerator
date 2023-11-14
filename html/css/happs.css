@@ -1,0 +1,35 @@
+/* Container holding the image and the text */
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+/* Container holding the text */
+.xcontainer {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+
+/* Container holding the description text */
+.tcontainer {
+  position: relative;
+  width: 60%;
+  align: center;
+  color: black;
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Footer */
+.footer {
+  background-color: #404040;
+  color: white;
+}
